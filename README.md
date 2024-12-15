@@ -1,2 +1,2 @@
-# LinkedList
+# CS standards
  
