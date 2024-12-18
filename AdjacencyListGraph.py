@@ -14,12 +14,3 @@ class graph:
             for item in nodeList:
                 print(str(item)+", ", end="")
             print("\n")
-
-g = graph()
-g.addEdge(0, 1)
-g.addEdge(0, 2)
-g.addEdge(0, 3)
-g.addEdge(4, 2)
-g.addEdge(3, 0)
-g.addEdge(1, 3)
-g.printAdjList()
